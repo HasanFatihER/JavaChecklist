@@ -78,9 +78,9 @@ public class Variables {
 
         System.out.println(number3 + number4);
 
-        // sum : 24.14Two numbers' total
+        // sum : 24.14
 
-        System.out.println("Total : " + (number3 + number4));
+        System.out.println("Two numbers' total " + (number3 + number4));
 
 
         // 5 - Create char data types variable and write
